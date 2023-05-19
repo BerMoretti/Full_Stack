@@ -13,3 +13,9 @@ https://drive.google.com/file/d/1ZP674ko2AhBYukROlSZeSJWFCspNOtLf/view?usp=shari
 
 HomeBrew Mac (Parte de la instalación Git para Mac)
 https://brew.sh/
+
+
+
+Videos que ayudan a entender mejor c'omo funciona la terminal:
+
+https://www.youtube.com/watch?v=VdGzPZ31ts8&t=482s
