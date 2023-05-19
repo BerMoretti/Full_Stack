@@ -1,0 +1,15 @@
+Instalación GitBash
+
+Para trabajar con Git vas a tener que instalar Git, aqui tienes algunos links para la instalación:
+
+Instalador Git para Windows
+https://git-for-windows.github.io/
+
+Instalador de Git para Windows descargado 32 bit
+https://drive.google.com/file/d/1VpdIbIB_O1jBY9CaDmz3o_i4z8aD6Z_0/view?usp=sharing
+
+Instalador de Git para Windows descargado 64 bit
+https://drive.google.com/file/d/1ZP674ko2AhBYukROlSZeSJWFCspNOtLf/view?usp=sharing
+
+HomeBrew Mac (Parte de la instalación Git para Mac)
+https://brew.sh/
