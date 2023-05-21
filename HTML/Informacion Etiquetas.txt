@@ -1,0 +1,72 @@
+HTML
+
+Etiquetas:
+
+<html> Simpre estará al inicio para definir el archivo como HTML
+<head> Cabecera
+<body> Cuerpo
+<footer> Pie
+
+<h1> Titulo
+<h2> Titulo
+<h3> Titulo
+<h4> Titulo
+<h5> Titulo
+<h6> Titulo
+<p> Parrafo
+<hr> Separador
+<span> Para darle estilo
+<br> Salto de linea
+<a href="https://www.google.com"> Hipervinculo
+<a targert="_blank" href="https://www.google.com"> Hipervinculo en pestania nueva
+<img src="rutadelaimagen.png" /> Insertar una imagen
+<img src="rutadelaimagen.png" width"400" height="400" /> Insertar una imagen con medidas
+
+Formulario:
+
+<form action="/formulario" method="POST" o "GET">
+	<label for="nombre">Nombre</label>
+	<imput id="nombre" name="nombre" placeholder="Nombre" />
+
+Type: text, email, password, radio, checkbox, file o submit
+
+	<textarea cols="50" rows="10"><textarea>
+	<button type="button">Enviar</button>
+
+* Los botones pueden ser de tres tipos: button, reset o submit
+
+<ul> Lista NO ordenada
+<ol> Lista ordenada
+<li> Elemento listado
+....<ol style="list-style-type: lower-alpha;"> Para listas anidadas
+
+Tablas:
+
+<table> Tabla
+<tr> Filas
+<th> Texto Cabecera
+<td> Texto Contenido
+
+Ejemplo:
+
+<tr>
+	<th>Producto</th>
+	<th>Precio</th>
+</tr>
+<tr>
+	<td>jabon</th>
+	<td>$20</th>
+</tr>
+<tr>
+	<td>enjuague</th>
+	<td>$10</th>
+</tr>
+
+
+
+
+Videos que pueden interesarte:
+
+https://www.youtube.com/watch?v=MJkdaVFHrto
+
+
